@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">19200211_20200077_LimonadaApp</string>
+    <string name="arbol">Presiona en el arbol para recoger los limones</string>
+    <string name="limon">Presiona 3 veces para exprimirlo </string>
+    <string name="limonada_llena">Toma tu deliciosa Limonada </string>
+    <string name="limonada_vacia">Presiona, preparemos otra :)</string>
+
+</resources>
